@@ -1,0 +1,28 @@
+{
+  "BOT_IMG": "",
+  "MENU_SONG": "assets/menu_song.mp3",
+  "BOT_NAME": "AKASH EXPLOIT MD",
+  "DEV_NAME": "AKASH",
+  "IG_LINK": "https://www.instagram.com/akash___exploit___",
+  "PREFIX": ".",
+  "AUTO_PROTECTION": {
+    "ANTI_GALI": true,
+    "ANTI_LINK": true,
+    "ANTI_NSFW": true,
+    "ANTI_FORWARD": true,
+    "ANTI_SPAM": true,
+    "ANTI_EMOJI": true,
+    "SPAM_LIMIT": 6,
+    "SPAM_WINDOW_MS": 10000,
+    "MAX_WARNS": 3
+  },
+  "WELCOME": {
+    "ENABLED": true,
+    "SHOW_PROFILE_PIC": true,
+    "SHOW_GOODBYE": true
+  },
+  "TOKEN_SYSTEM": {
+    "ENABLED": true,
+    "PENDING_TIMEOUT_MS": 120000
+  }
+}
